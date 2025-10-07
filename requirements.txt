@@ -1,0 +1,18 @@
+# متطلبات نظام مراقبة BitFuFu
+
+# Selenium وWebDriver
+selenium>=4.15.0
+webdriver-manager>=4.0.1
+
+# Google APIs
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
+google-api-python-client>=2.100.0
+
+# المكتبات المثبتة مسبقاً (للمرجعية فقط)
+# beautifulsoup4
+# requests
+# markdown
+# reportlab
+# weasyprint
